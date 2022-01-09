@@ -20,3 +20,5 @@ def divide(x,y):
 # Square Implementation	#before stash
 def square(x):
 	return x^2
+	
+# This change is on the Bug123 branch
